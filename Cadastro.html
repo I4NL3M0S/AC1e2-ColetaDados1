@@ -10,13 +10,22 @@
     <h2>Aula de Formulários</h2>
     <form action="" method="POST">
        <label>Nome do Usuário:</label><br/>
-       <input type="text" maxlength="10" name="User"/>
+       <input type="text" maxlength="10" name="User" size="50" placeholder="Digite seu usuário"
+        required/>
        <br/>
        <label>Senha:</label>
        <br/>
-       <input type="password" maxlength="12" name="pass"/>
+       <input type="password" maxlength="12" name="pass" required/>
        <br/>
-       <input type="submit" value="Salvar"/>
+       <select name="UF"><br/>
+           <option name="SP">São Paulo</option>
+           <option name="RJ">Rio de Janeiro</option>
+           <option name='MG'>Minas Gerais</option>
+       </select><br/>
+       <input type="radio" name="Disciplinas" value="DevOps">DevOps<br/>
+       <input type="radio" name="Disciplinas" value="LPII">LPII<br/>
+       <input type="email" name="email" id="email">
+       <input type="submit" value="Salvar"/>    
     </form>
 </body>
 </html>
