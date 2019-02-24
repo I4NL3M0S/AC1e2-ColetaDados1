@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title></title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <h1>CLAUDIOFLIX O MELHOR SITE DE AVALIAÇÕES DO MUNDO!!!</h1>
+</body>
+<form>
+    Conheceu o site por onde:<br/>
+<select name="Conhecimento!">
+    <option value="amg">Amigos</option>
+    <option value="Ytube">Youtube</option>
+    <option value="fb">Facebook</option>
+    </select><br/>
+</form><br/><br/>
+<form>
+        O site está:<br/>
+    <input name="Resposta" type="radio" value="g">Bom!<br/>
+    <input name="Resposta" type="radio" value="m">Médio!<br/>
+    <input name="Resposta" type="radio" value="b">Ruim!<br/>
+    </form><br/><br/>
+<form action="" method="POST"><br/><br/>
+    Deixe sua mensagem aqui: <br/>
+    <textarea>Deixe sua opnião sobre o que podemos melhorar!</textarea>
+</form><br/><br/>
+<form>
+    Indicaria o site aos amigos?<br/>
+<input name="Resposta" type="radio" value="Y">SIM!<br/>
+<input name="Resposta" type="radio" value="N">NÃO!<br/>
+<input name="Resposta" type="radio" value="P">TALVEZ!<br/>
+</form><br/><br/>
+<body>
+    <h2>Obrigado pela sua visita!!!</h2>
+</body>
+</html>
