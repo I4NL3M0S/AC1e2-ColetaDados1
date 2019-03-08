@@ -1,19 +1,20 @@
 body{
-    background: yellow
-
+    font-family: Arial, Verdana, Tahoma, Sans-Serif;
+    color: #333333;
+    font-size: 12px;
 }
-
-h1{
-
-
-}
-
-h2{
-    text-align: right;
-
-}
-
 p{
-
-
+    line-height: 20px;
+    text-align: justify;
+}
+h1{
+    font-size: 24px;
+    color: #003366;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 14px;
+    padding: 5px;
+    background-color: #E3E3E3;
+    color: #4C4C4C;
 }
