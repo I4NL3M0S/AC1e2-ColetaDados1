@@ -1,0 +1,14 @@
+body{
+    background: #808080;   
+    
+}
+h1,h2,h4,p{
+    text-align: center;
+    font-style: unset;
+}
+h1,p{
+    color:magenta;
+    font-family: Arial;
+    font-size: smaller;
+    
+}
