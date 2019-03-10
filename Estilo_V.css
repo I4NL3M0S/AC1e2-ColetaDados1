@@ -11,3 +11,7 @@ h1{
 Imagem{
     border: 6px solid blue
 }
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15;
+}
