@@ -8,11 +8,12 @@ h1{
 .div3{
     text-align: center;
 }
-img{
-    text-align: center;
-    
-}
+
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15;
+
+}
+div{
+    text-align: center;
 }
