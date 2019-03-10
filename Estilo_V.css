@@ -1,0 +1,23 @@
+.container{
+    border: 3px rgb(0, 0, 0);
+    
+}
+h1{
+    background-color: rgb(206, 22, 22);
+}
+.div3{
+    text-align: center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15;
+
+}
+div{
+    text-align: center;
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15;
+}

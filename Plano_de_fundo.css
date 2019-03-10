@@ -1,0 +1,29 @@
+body{
+    background:burlywood;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30pt;
+    color:blue;
+    }
+ p1{
+    font-family: arial ;
+    font-size: 16pt;
+    color:black;
+     text:2px 2px;
+}    
+h5{
+    text-align: right;
+    color: blueviolet;
+    font-size: 25pt;
+    
+
+}
+p2{
+    text-align:center;
+}
+        
+            
+       
+      
