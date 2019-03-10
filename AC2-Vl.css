@@ -3,11 +3,11 @@ body {
 }
 
 label {
-	color: white;
+	color: whitesmoke;
 }
 
 input {
-	color: white;
+	color: whitesmoke;
 }
 
 p.titulos {
@@ -18,8 +18,8 @@ p.titulos {
 
 button {
 	background-color: red;
-	border-color: red;
-	color: white;
+	border-color: whitesmoke;
+	color: black;
 	width: 40%;
 	margin-left: 30%;
 	margin-right: 30%;
@@ -40,7 +40,7 @@ div.right {
 .dropdown .btn {
 	background: red;
 	 color: black;
-	  border: red;
+	  border: whitesmoke;
 	}
 .dropdown .btn:active {
 	background: red;
